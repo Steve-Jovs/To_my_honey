@@ -1,0 +1,15 @@
+div {
+    background: #ffe9ec;
+    width: 300px;
+    border: 15px solid pink;
+    padding: 50px;
+    margin: 20px;
+  }
+  
+  .center {
+    margin: auto;
+  }
+  
+  body {
+    background: #89CFF0;
+  }
